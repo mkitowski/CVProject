@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri');
+
+.cv {
+    width: 1250px;
+    margin: 10px auto;
+    border: 1px solid #242424;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #2B2B2B;
+
+}
+.title {
+    background: #494949;
+    color: #AFB1B3;
+    padding-left: 5%;
+}
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+/*Personal*/
+
+.pic {
+    background: url("../img/mk.png") no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 300px;
+
+}
+
+.inline {
+    display: flex;
+    align-content: space-around;
+}
+
+.inline li {
+    list-style: none;
+    font-size: 1.3em;
+    line-height: 2em;
+}
+
+.left, .dates {
+    font-weight: bold;
+
+}
+
+#name {
+    font-weight: bold;
+}
+
+li a {
+    text-decoration: none;
+    color: #2B2B2B;
+    font-weight: 600;
+}
+
+li a:hover {
+    color: #467EB8;
+}
+
+/*Education*/
+
+.bold {
+    font-weight: 700;
+}
+
+
+/*Expirerience IT*/
+.it, .it li {
+    display: flex;
+    align-items: center;
+    line-height: 2em;
+}
+.www {
+    background: url("../img/www.png") no-repeat;
+    background-size: contain;
+    width: 34px;
+    height: 34px;
+    margin-right: 10px;
+}
+
+.github {
+    background: url("../img/GitHub-Mark-32px.png") no-repeat;
+    background-size: contain;
+    width: 34px;
+    height: 34px;
+    margin-right: 10px;
+}
+
