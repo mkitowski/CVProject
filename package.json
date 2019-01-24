@@ -1,0 +1,23 @@
+{
+  "name": "cvproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkitowski/CVProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkitowski/CVProject/issues"
+  },
+  "homepage": "https://github.com/mkitowski/CVProject#readme",
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
