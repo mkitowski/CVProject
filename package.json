@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/mkitowski/CVProject#readme",
   "dependencies": {
-    "gulp-sass": "^4.0.2"
+    "gulp-sass": "^4.0.2",
+    "print-js": "^1.0.54"
   },
   "devDependencies": {},
   "description": ""

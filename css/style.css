@@ -1,7 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Hind+Siliguri");
-.cv {
-  font-family: 'Hind Siliguri', sans-serif;
+#cv {
+  font-family: sans-serif;
   color: #2B2B2B;
+}
+
+#cv h1 {
+  background: #2B2B2B;
+  color: white;
 }
 
 .pic {
